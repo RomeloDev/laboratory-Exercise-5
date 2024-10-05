@@ -64,7 +64,7 @@ nav{
 }
 
 .menu li{
-    margin-left: 20px;
+    margin-left: 5px;
     text-align: center;
 }
 
@@ -78,6 +78,11 @@ nav{
     background-color: #597aed;
     color: white;
     text-decoration: none;
+}
+
+.menu li a:hover{
+    background-color: #1226ed;
+    color: white;
 }
 
 footer{
